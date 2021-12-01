@@ -1,0 +1,6 @@
+water_level = 50
+
+if water_level > 50:
+    print("Drain the Water")
+else:
+  print("continue filling the water")
